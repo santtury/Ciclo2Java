@@ -1,5 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "Ejercicios/src"
+        "Ejercicios/src",
+        "Actividades/src",
+        "Retos/src"
     ]
 }
