@@ -1,3 +1,5 @@
+package ciclos;
+
 import java.util.Scanner;
 // import javax.swing.JOptionPane;
 

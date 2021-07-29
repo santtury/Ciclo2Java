@@ -1,3 +1,5 @@
+package ciclos;
+
 import java.util.Scanner;
 
 // Imprime los números pares sin contar el cero desde 2
