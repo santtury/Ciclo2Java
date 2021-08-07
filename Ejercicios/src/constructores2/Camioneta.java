@@ -43,7 +43,6 @@ public class Camioneta extends Vehiculo {
     // Se sobreescribe el método getNumSillas de la Super Clase Vehículo
     @Override
     public int getNumSillas() {
-        // TODO Auto-generated method stub
         return super.getNumSillas() + sillasAdicionales;
     }
 }

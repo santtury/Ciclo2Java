@@ -11,7 +11,6 @@ public class Gerente extends Empleado {
     // Esto es sobreescritura
     @Override
     public String detalles() {
-        // TODO Auto-generated method stub
         return super.detalles() + ", Departamento: " + this.departamento;
     }
 
