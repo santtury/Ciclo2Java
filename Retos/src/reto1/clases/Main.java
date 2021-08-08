@@ -1,4 +1,4 @@
-package reto1;
+package reto1.clases;
 
 public class Main {
     public static void main(String[] args) {

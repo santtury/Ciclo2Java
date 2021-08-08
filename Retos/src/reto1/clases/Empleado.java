@@ -1,4 +1,4 @@
-package reto1;
+package reto1.clases;
 
 /**
  * El reto 1 trata sobre realizar el cálculo de la liquidación de la seguridad
