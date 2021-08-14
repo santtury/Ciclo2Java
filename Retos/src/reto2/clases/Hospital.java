@@ -30,8 +30,8 @@ public class Hospital {
     }
 
     /**
-     * Este método cálcula la liquidadción de la seguridad social de un empleado a
-     * partir del salario y los conceptos de seguridad social.
+     * Este método cálcula la liquidadción de salud de un empleado a partir del
+     * salario y los conceptos de seguridad social.
      * 
      * @param empleado Objeto empleado al que se le va a obtener el salario y
      *                 calcular su nómina
